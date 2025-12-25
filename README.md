@@ -1,74 +1,112 @@
-# Hi, I'm Animesh 👋
+# Hi, I'm Animesh Sharma 👋
 
-I'm a software developer and open-source enthusiast. I craft reliable, maintainable software and enjoy learning new technologies and contributing to community projects.
+🚀 AI & Software Developer | Open-Source Enthusiast | ML & Computer Vision Practitioner  
+
+I am a passionate **Artificial Intelligence and Data Science student** with hands-on experience in **Machine Learning, Deep Learning, Computer Vision, and NLP**. I enjoy building intelligent, real-world applications and contributing to open-source projects while continuously improving my problem-solving and software development skills.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: open-source projects and improving my full-stack skills.
-- 🌱 I’m currently learning: (replace with what you're learning — e.g. Rust, cloud-native patterns, ML)
-- 👯 I’m looking to collaborate on: web apps, developer tools, automation, and OSS
-- 💬 Ask me about: system design, clean code, or anything JavaScript/Python related (customize as needed)
-- 📫 How to reach me: see the **Contact** section below
+- 🔭 Currently working on: **AI-based projects & open-source contributions**
+- 🌱 Currently learning: **Advanced Machine Learning, Deep Learning & AI Deployment**
+- 👯 Looking to collaborate on: **AI/ML projects, computer vision apps & open-source tools**
+- 💬 Ask me about: **Python, ML, CV, AI projects, or DSA**
+- 📫 How to reach me: **See Contact section below**
 
 ---
 
-## 🛠️ Tech & Tools
-(Replace these with the technologies you use the most)
-- Languages: JavaScript, TypeScript, Python, Java
-- Frameworks: React, Node.js, Express, Next.js
-- Databases: PostgreSQL, MongoDB
-- Cloud & DevOps: Docker, GitHub Actions, AWS
-- Other: Git, Linux, REST, GraphQL, CI/CD
+## 🛠️ Tech Stack & Skills
+
+### 👨‍💻 Programming Languages
+- Python  
+- JavaScript  
+- C  
+- C++
+
+### 🤖 AI & Data Science
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Natural Language Processing  
+- OpenCV  
+- Data Analytics & Visualization  
+
+### 🧰 Frameworks & Tools
+- Django  
+- Git & GitHub  
+- Linux  
+
+### 📚 Core Subjects
+- Data Structures & Algorithms (DSA)  
+- Database Management Systems (DBMS)
 
 ---
 
-## 📂 Pinned Projects
-Replace these with your actual repositories or keep as examples.
+## 💼 Experience
 
-- [Personal Website](https://github.com/Animesh2207/personal-website) — My portfolio and blog.
-- [Awesome-Project](https://github.com/Animesh2207/awesome-project) — A tool I built to solve X problem.
-- [OpenSource-Contribs](https://github.com/Animesh2207/opensource-contribs) — Contributions, scripts and utilities I maintain.
+### **Junior Developer Intern**
+**Hairscope** | *May 2025 – Nov 2025*  
+- Worked on AI-driven projects involving **intelligent assistants, image processing, and machine learning**  
+- Assisted in developing, testing, and optimizing ML models  
+- Collaborated with teams to deliver real-world AI solutions  
 
-(You can update these links to the repositories you want to showcase.)
+---
+
+## 📂 Projects
+
+### 🚗 Car Price Prediction Model
+A **Django web application** integrated with machine learning to predict car prices based on user input.
+
+**Tech Used:** Python, Django, Machine Learning  
+🔗 GitHub:  
+https://github.com/Mohitsharma1214/Car-Price-Prediction-Model  
+
+---
+
+### 😴 Driver Drowsiness Detection System
+A **computer vision-based system** that analyzes facial features to detect driver drowsiness in real time and help prevent accidents.
+
+**Tech Used:** Python, OpenCV, Computer Vision  
+🔗 GitHub:  
+https://github.com/Mohitsharma1214/Driver-Drowsiness-Detection-System  
+
+---
+
+## 🎓 Education
+- **B.Tech in Artificial Intelligence & Data Science**  
+  Samrat Ashok Technological Institute, Vidisha (2023–2027)  
+- Class XII: 79.2%  
+- Class X: 79%
+
+---
+
+## 📜 Certifications
+- **Python for Data Science, AI & Development – IBM (Udemy)**  
+  🔗 https://www.udemy.com/certificate/UC-4b989fea-6119-4233-8bb6-b25a4e0e821a/
 
 ---
 
 ## 📊 GitHub Stats
-<!-- These cards auto-generate from third-party services. You can remove or change the theme. -->
-<p>
-  <img alt="Animesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Animesh2207&show_icons=true&theme=tokyonight" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh2207&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Animesh2207&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh2207&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
-- Email: your.email@example.com (replace)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin) (replace)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle) (replace)
-- Resume: [Download PDF](https://yourdomain.com/resume.pdf) (replace)
+## 📫 Contact Me
+- 📧 Email: **animeshsharma512@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/animeshsharmas  
+- 💻 GitHub: https://github.com/Animesh2207  
 
 ---
 
-## 🤝 How you can help / Collaborate
-- Star and follow projects you like.
-- File issues or feature requests on repos.
-- Open PRs with bug fixes or enhancements.
-- Reach out if you want to collaborate on an idea.
+## 🤝 Let’s Collaborate
+- ⭐ Star repositories you find useful  
+- 🐛 Open issues or feature requests  
+- 🔧 Submit pull requests  
+- 💬 Reach out if you want to collaborate on an idea  
 
 ---
 
-## ✨ Want this README customized?
-I’ve created a polished, ready-to-use README template for your profile. If you want a personalized version, tell me:
-1. A one-line tagline or what you do.
-2. 3–6 technologies you use most.
-3. 2–4 projects to showcase (repo names or links).
-4. Links for email, LinkedIn, Twitter, resume (if any).
-5. Preferred theme for the GitHub stat cards (e.g., dark, light, tokyonight, radical).
-
-Tell me those and I’ll update the README for you.
-
---- 
-
-Thanks for using this template — looking forward to helping you make it truly yours!
+✨ *Always curious. Always learning. Always building.*  
